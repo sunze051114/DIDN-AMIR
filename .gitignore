@@ -1,0 +1,21 @@
+# Local environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.idea/
+.env
+tmp/
+/%SystemDrive%/
+
+# Datasets and generated training/evaluation artifacts
+data/
+checkpoint/
+results/
+output/
+recovery/
+AGENTS.md
+*.pth
+*.log

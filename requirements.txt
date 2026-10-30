@@ -1,0 +1,4 @@
+# Python 3.10+; install the CUDA-enabled PyTorch build for GPU training.
+torch>=2.4,<3
+numpy>=1.24,<3
+SimpleITK>=2.3,<3
